@@ -6,10 +6,12 @@ body{
 	height:100%;
 	width:100%;
 }
+header{
+	text-align:center;
+}
 .header{
 	background-color:#011e29;
 	color:white;
-	text-align:center;
 	padding-top:15px;
 	font-weight:bold;
 	height:60px;
